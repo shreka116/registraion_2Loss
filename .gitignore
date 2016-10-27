@@ -1,0 +1,10 @@
+checkpoints/161021_notsure_ifits_learning/*
+checkpoints/model_*.t7
+checkpoints/testLoss_*.t7
+checkpoints/trainLoss_*.t7
+checkpoints/optimState_*.t7
+
+losses/*
+
+training_*.txt
+
